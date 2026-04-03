@@ -1,0 +1,27 @@
+# Data files
+*.tsv
+*.csv
+*.json
+*.txt
+tatoeba/
+data/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.pdf
+*.zip
+*.tar.gz
